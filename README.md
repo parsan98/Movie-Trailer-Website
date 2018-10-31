@@ -1,6 +1,8 @@
 # Movie Trailer Website
 A little server side code to store a list of Harry Potter movies and serve the trailers and box art imagery as a web page.
 
+<img src="https://github.com/parvathy-santhosh/Movie-Trailer-Website/blob/master/snip.JPG?raw=true">
+
 ### Requirements
 * Python 3.6
 * A browser
